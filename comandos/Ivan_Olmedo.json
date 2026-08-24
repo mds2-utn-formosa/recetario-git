@@ -1,0 +1,8 @@
+{
+  "comando": "git checkout",
+  "categoria": "ramas",
+  "que_hace": "Cambia a una rama existente.",
+  "ejemplo": "git checkout feature/login",
+  "cuidado": "Si ya existe la rama falla. Sin -b solo cambia a una existente.",
+  "autor": "Ivan_Olmedo"
+}
