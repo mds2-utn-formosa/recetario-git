@@ -1,0 +1,8 @@
+{
+  "comando": "git push origin --tags",
+  "categoria": "tags",
+  "que_hace": "Sube al remoto todos los tags locales que todavía no están publicados.",
+  "ejemplo": "git tag -a v1.0.0 -m \"Primer release\" && git push origin v1.0.0",
+  "cuidado": "Un git push común NO manda los tags. Es el error más frecuente al hacer un release.",
+  "autor": "ejemplo-bruno"
+}
