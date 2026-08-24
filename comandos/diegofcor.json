@@ -1,0 +1,4 @@
+git status
+git add comandos/diegofcor.json
+git commit -m "feat(comandos): agrega comando de diegofcor"
+git push origin comando/diegofcor
