@@ -1,0 +1,8 @@
+{
+  "comando": "git remote -v",
+  "categoria": "remoto",
+  "que_hace": "Muestra los repositorios remotos configurados en tu proyecto y sus URLs.",
+  "ejemplo": "git remote -v",
+  "cuidado": "git remote -v no muestra el repositorio original que forkeaste si no ejecutas primero el git remote add upstream",
+  "autor": "ejemplo-AbrahamDF90"
+}
