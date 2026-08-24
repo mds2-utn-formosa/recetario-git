@@ -1,0 +1,8 @@
+{
+  "comando": "git remote add upstream (link repositorio)",
+  "categoria": "remoto",
+  "que_hace": "conecta tu repositorio local con el repositorio original (principal).",
+  "ejemplo": "git remote add upstream https://github.com/mds2-utn-formosa/recetario-git.git",
+  "cuidado": "Si el nombre upstream ya está registrado, el comando falla diciendo fatal: remote upstream already exists.",
+  "autor": "LucasGabriel-D"
+}
