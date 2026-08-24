@@ -25,4 +25,4 @@ Está todo en [CONTRIBUTING.md](CONTRIBUTING.md). El resumen:
 
 - Facundo (docente)
 - Facundo Veron (docente)
-- Ivan Olmedo (Alumno)
+- Ivan_Olmedo (Alumno)

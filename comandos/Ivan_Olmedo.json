@@ -1,8 +1,8 @@
 {
-  "comando": "git switch -c",
+  "comando": "git checkout",
   "categoria": "ramas",
-  "que_hace": "Crea una rama nueva y te para encima de ella.",
-  "ejemplo": "git switch -c feature/login",
-  "cuidado": "Si ya existe la rama falla. Sin -c solo cambia a una existente.",
-  "autor": "Ivan Olmedo"
+  "que_hace": "Cambia a una rama existente.",
+  "ejemplo": "git checkout feature/login",
+  "cuidado": "Si ya existe la rama falla. Sin -b solo cambia a una existente.",
+  "autor": "Ivan_Olmedo"
 }
