@@ -1,0 +1,8 @@
+{
+  "comando": "git cherrypick",
+  "categoria": "ramas",
+  "que_hace": "Aplica los cambios de un commit específico a la rama actual.",
+  "ejemplo": "git cherrypick <commit-hash>",
+  "cuidado": "El cherry-pick puede causar conflictos si los cambios no son compatibles con la rama actual.",
+  "autor": "ejemplo-fabgines"
+}
