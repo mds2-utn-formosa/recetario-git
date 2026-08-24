@@ -1,0 +1,8 @@
+{
+  "comando": "git help",
+  "categoria": "basico",
+  "que_hace": "Muestra un listado de comandos de git",
+  "ejemplo": "git help",
+  "cuidado": "...",
+  "autor": "cardozoemanuel456-glitch"
+}
