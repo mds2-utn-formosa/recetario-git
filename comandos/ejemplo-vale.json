@@ -1,0 +1,9 @@
+
+{
+  "comando": "git stash",
+  "categoria": "deshacer",
+  "que_hace": "Guarda los cambios sin commitear en un lugar aparte y te deja el working directory limpio.",
+  "ejemplo": "git stash && git switch main && git stash pop",
+  "cuidado": "Es fácil olvidarse que tenés algo guardado. git stash list te muestra todo lo pendiente.",
+  "autor": "ejemplo-vale"
+}
