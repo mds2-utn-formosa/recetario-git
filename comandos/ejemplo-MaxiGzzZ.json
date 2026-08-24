@@ -1,0 +1,8 @@
+{
+    "comando": "git status",
+    "categoria": "basico",
+    "que_hace": "Muestra el estado actual del directorio de trabajo, incluyendo archivos modificados, eliminados o sin rastrear.",
+    "ejemplo": "git status",
+    "cuidado": "Solo te muestra el estado. No guarda, no crea commits ni sube ningún cambio por sí solo.",
+    "autor": "ejemplo-MaxiGzzZ"
+}
