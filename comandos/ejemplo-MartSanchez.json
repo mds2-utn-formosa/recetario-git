@@ -1,0 +1,8 @@
+{
+  "comando": "git restore --staged",
+  "categoria": "deshacer",
+  "que_hace": "Quita archivos del área de preparación sin borrar los cambios del directorio de trabajo.",
+  "ejemplo": "git restore --staged README.md",
+  "cuidado": "No elimina tus modificaciones, pero el archivo dejará de estar preparado para el próximo commit.",
+  "autor": "ejemplo-MartSanchez"
+}
