@@ -26,3 +26,4 @@ Está todo en [CONTRIBUTING.md](CONTRIBUTING.md). El resumen:
 - Facundo (docente)
 - Facundo Veron (docente)
 - Samuel Casanueva (alumno)
+- Gabriel Pineda (alumno)
