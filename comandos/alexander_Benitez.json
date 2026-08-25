@@ -1,0 +1,8 @@
+{
+  "comando": "git status",
+  "categoria": "basico",
+  "que_hace": "Muestra el estado del directorio de trabajo y del área de preparación, permitiendo ver qué cambios han sido stagiados y cuáles no.",
+  "ejemplo": "git status",
+  "cuidado": "No modifica ningún archivo, solo es un comando informativo.",
+  "autor": "alexander_Benitez"
+}

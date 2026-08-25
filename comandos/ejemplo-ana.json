@@ -1,4 +1,4 @@
-{
+  {
   "comando": "git switch -c",
   "categoria": "ramas",
   "que_hace": "Crea una rama nueva a partir de donde estás parado y te mueve a ella.",

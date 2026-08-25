@@ -25,4 +25,5 @@ Está todo en [CONTRIBUTING.md](CONTRIBUTING.md). El resumen:
 
 - Facundo (docente)
 - Facundo Veron (docente)
+- Benitez José Alexander(alumno)
 - Gabriel Pineda (alumno)
