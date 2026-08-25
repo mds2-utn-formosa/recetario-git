@@ -25,3 +25,4 @@ Está todo en [CONTRIBUTING.md](CONTRIBUTING.md). El resumen:
 
 - Facundo (docente)
 - Facundo Veron (docente)
+- Diego Fabian Cardozo (alumno)
