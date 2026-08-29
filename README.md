@@ -25,4 +25,5 @@ Está todo en [CONTRIBUTING.md](CONTRIBUTING.md). El resumen:
 
 - Facundo (docente)
 - Facundo Veron (docente)
+- Valeria Budino
 - Gabriel Pineda (alumno)
