@@ -10,3 +10,5 @@ labels: ["tipo::aporte", "estado::pendiente"]
 **Categoría:**
 
 **Por qué me parece útil:**
+
+Casos de uso: 
