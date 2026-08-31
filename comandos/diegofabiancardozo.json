@@ -1,8 +1,8 @@
 {
   "comando": "git switch -c",
   "categoria": "ramas",
-  "que_hace": "Crea una rama nueva y te para encima de ella.",
+  "que_hace": "Crea una nueva rama y cambia automáticamente a ella.",
   "ejemplo": "git switch -c feature/login",
-  "cuidado": "Si ya existe la rama falla. Sin -c solo cambia a una existente.",
+  "cuidado": "Si la rama ya existe, el comando falla. Sin la opción -c, solo cambia a una rama existente.",
   "autor": "Diego Fabian Cardozo"
 }
